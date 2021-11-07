@@ -21,7 +21,7 @@
 </p>
 
 <p align='left'>
-- 
+
    
 - 🔭 I’m currently working on ... Machine Learning, 5G Communications, IoT devices, and Localization
    
