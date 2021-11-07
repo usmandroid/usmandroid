@@ -19,7 +19,10 @@
   </a>&nbsp;&nbsp;
   
 </p>
+
 <p align='left'>
+- 
+   
 - 🔭 I’m currently working on ... Machine Learning, 5G Communications, IoT devices, and Localization
    
 - 🌱 I’m currently learning ... Radar Signal Processing, Satellite Communications and SDN
