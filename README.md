@@ -1,6 +1,6 @@
 ### Hi there, I'm Usman! 👋
 
-<!--
+<!---->
 **usmandroid/usmandroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... drop me an email at: sheikh.ali@tum.de
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...
--->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sheikh-usman-ali" data-version="v1">[Sheikh Usman Ali](https://de.linkedin.com/in/sheikh-usman-ali?trk=profile-badge)</div>       
+
